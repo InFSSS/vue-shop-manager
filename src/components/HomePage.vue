@@ -1,16 +1,15 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+    <div>home</div>
 </template>
 
 <script>
 
 export default {
-  components: {
-  }
 }
 </script>
 
 <style lang="less" scoped>
+html,body,#app{
+    background: #fff;
+}
 </style>
